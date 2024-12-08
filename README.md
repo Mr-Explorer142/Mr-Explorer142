@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on JavaScript and Python Developers.
 - 📫 How to reach me? Well, mail here : tahmidtamim143@gmail.com
 - 😄 Pronouns: Tamim
-- ⚡ Fun fact: I am a newbie in Programming 😁
+- ⚡ Fun fact: I don't have any project yet. But it is coming soon 😁
 
