@@ -13,7 +13,7 @@
 ---
 
 ### 📌 About Me
-- 🧑‍🎓 Pursuing my **Bachelor in Computer Science and Engineering** at **Daffodil Internation University** in **Dhaka, Bangladesh**
+- 🧑‍🎓 Pursuing my **Bachelor in Computer Science and Engineering** at **<a href="https://daffodilvarsity.edu.bd/">Daffodil International University</a>** in **Dhaka, Bangladesh**
 - 🌱 Currently learning **advanced backend & system design**
 - 🔥 Interested in **full-stack development**
 - ⚡ I love turning ideas into working products!
