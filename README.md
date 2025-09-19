@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,python,django" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Tools
 <p align="center">
   <!-- Databases & Tools -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
