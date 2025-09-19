@@ -3,24 +3,11 @@
 💻 Passionate about **Web and Mobile App Development**  
 🚀 I enjoy building clean, scalable, and user-friendly applications.
 
-## 🛠️ Tech Stack  
+---
 
-### 🖥️ Frontend
+## 💻 Tech Stack & Skill Set
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
-</p>
-
-### 🌐 Backend
-<p align="center">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django" />
-</p>
-
-### 🗄️ Databases & Tools
-<p align="center">
-  <!-- Databases & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,php,laravel,python,django,mysql,postgres,git,github" />
 </p>
 
 ---
