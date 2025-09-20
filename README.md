@@ -3,8 +3,8 @@
 - 💻 I am Passionate about **Web and Mobile App Development**  
 - 🚀 I enjoy building clean, scalable, and user-friendly applications.
 - 🧑‍🎓 Currently i am pursuing my **Bachelor in Computer Science and Engineering** at **<a href="https://daffodilvarsity.edu.bd/">Daffodil International University</a>** in **Dhaka, Bangladesh**
-- 🌱 Currently learning **advanced backend & system design**
-- 🔥 Interested in **full-stack development**
+- 🌱 Currently i am learning **advanced backend & system design**
+- 🔥 I am interested in **full-stack development**
 - ⚡ I love turning ideas into working products!
 
 ---
