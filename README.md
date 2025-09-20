@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Tahmid Alam Tamim
 
-💻 Passionate about **Web and Mobile App Development**  
-🚀 I enjoy building clean, scalable, and user-friendly applications.
-🧑‍🎓 Pursuing my **Bachelor in Computer Science and Engineering** at **<a href="https://daffodilvarsity.edu.bd/">Daffodil International University</a>** in **Dhaka, Bangladesh**
-🌱 Currently learning **advanced backend & system design**
-🔥 Interested in **full-stack development**
-⚡ I love turning ideas into working products!
+- 💻 I am Passionate about **Web and Mobile App Development**  
+- 🚀 I enjoy building clean, scalable, and user-friendly applications.
+- 🧑‍🎓 Currently i am pursuing my **Bachelor in Computer Science and Engineering** at **<a href="https://daffodilvarsity.edu.bd/">Daffodil International University</a>** in **Dhaka, Bangladesh**
+- 🌱 Currently learning **advanced backend & system design**
+- 🔥 Interested in **full-stack development**
+- ⚡ I love turning ideas into working products!
 
 ---
 
@@ -29,5 +29,5 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Explorer142&layout=compact&theme=radical)
 
 ### 🦊 Random Dev Quote
-(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
