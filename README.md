@@ -15,7 +15,7 @@
 
 ## 💻 Skill Set
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,php,laravel,python,django,mysql,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,php,laravel,python,django,mysql,postgres,git,github,c,cpp,java" />
 </p>
 
 ---
