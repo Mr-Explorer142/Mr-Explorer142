@@ -12,9 +12,26 @@
 
 ---
 
-## 💻 Skill Set
+## 💻 Tech Stack
+
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,bootstrap,tailwind,vue, react,php,laravel,mysql,python,django,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=js,vue,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
 </p>
 
 ---
