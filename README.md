@@ -16,7 +16,7 @@
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,vue,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,js,vue,react" />
 </p>
 
 ### ⚙️ Backend
