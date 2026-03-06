@@ -21,12 +21,7 @@
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django" />
-</p>
-
-### 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,mysql" />
 </p>
 
 ### 📱 Mobile Development
