@@ -12,9 +12,9 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- Pursuing **B.Sc. in Computer Science & Engineering** at [Daffodil International University](https://daffodilvarsity.edu.bd/), Dhaka
+- Completed **B.Sc. in Computer Science & Engineering** at [Daffodil International University](https://daffodilvarsity.edu.bd/), Dhaka
 - Passionate about **Web & Mobile App Development**
 - I love building clean, scalable, and user-friendly applications
 - Focused on becoming a **Full-Stack Developer** (Web & Mobile)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p><strong>Programming Languages</strong></p>
 
@@ -48,9 +48,9 @@
 <p><strong>Backend</strong></p>
 
 <p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 <br/>
@@ -59,8 +59,18 @@
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<br/>
+
+<p><strong>DevOps & Cloud</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 <br/>
@@ -72,6 +82,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
 
 ---
